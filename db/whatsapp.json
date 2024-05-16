@@ -3,7 +3,7 @@
   "short_app_title": "WhatsApp",
   "app_category": "social",
   "in_app_purchase": true,
-  "app_icon": "https://lh3.googleusercontent.com/",
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715850380/whatsapp_jzpki8.png",
   "rated_for": "3+",
   "pwa_url": "https://web.whatsapp.com/",
   "manifest_url": "https://www.whatsapp.com/download/",

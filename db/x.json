@@ -1,0 +1,76 @@
+{
+  "app_title": "Twitter",
+  "short_app_title": "Twitter",
+  "app_category": "social",
+  "in_app_purchase": true,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715847603/appstore/x_unq5t8.webp",
+  "rated_for": "12+",
+  "pwa_url": "https://twitter.com/",
+  "manifest_url": "https://twitter.com/manifest.json",
+  "new_app_features": "### Latest Features\\n- Twitter introduces Fleets, ephemeral tweets that disappear after 24 hours.\\n- Voice tweets allow users to record and share audio snippets.\\n- Spaces enable users to host and join live audio conversations.\\n",
+  "privacy policy": {
+    "is_data_shared_with_third_party": true,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Email Address",
+          "reason": "To send you important updates and notifications."
+        },
+        {
+          "name": "Phone Number",
+          "reason": "To provide account security and send important notifications."
+        },
+        {
+          "name": "User ID",
+          "reason": "To uniquely identify your account and enable login."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Tweet",
+          "reason": "To share thoughts, news, and updates with followers."
+        },
+        {
+          "name": "Retweet",
+          "reason": "To share tweets from others with your followers."
+        },
+        {
+          "name": "Like",
+          "reason": "To show appreciation for tweets."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "about_this_app": "# Twitter\\n\\nTwitter is a social networking platform where users can share thoughts, news, and updates with short text messages known as tweets. Users can follow other accounts to see their tweets in their timeline and engage with content through likes, retweets, and replies.\\n\\n## Key Features:\\n\\n- **Tweets**: Share short text messages, photos, videos, and GIFs with followers.\\n\\n- **Retweets**: Share tweets from others with your followers.\\n\\n- **Likes**: Show appreciation for tweets by liking them.\\n\\n- **Followers and Following**: Build a network by following and being followed by other users.\\n\\n- **Notifications**: Receive notifications for mentions, likes, retweets, and new followers.\\n\\n- **Direct Messages**: Send private messages to other users.\\n\\n- **Lists**: Organize accounts into custom lists to curate your timeline.\\n\\n- **Explore Tab**: Discover trending topics, hashtags, and accounts.\\n\\n- **Twitter Spaces**: Host and join live audio conversations with other users.\\n\\n- **Fleets**: Share ephemeral tweets that disappear after 24 hours.\\n\\nFor more information or support, visit the [Twitter Help Center](https://help.twitter.com/) or contact Twitter support at [support@twitter.com](mailto:support@twitter.com)",
+    "app_version": "9.0.0",
+    "Updated_on": "2024-04-15",
+    "Required_Os": "Android 6.0> or iOS 12.0> or Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": true,
+      "purchase_range": "$0.99 - $99.99 per item"
+    },
+    "content_rating": "Rated for 12+",
+    "interactive_elements": "Users interact, Shares location, Digital purchases",
+    "released_on": "2006-03-21",
+    "developer": "Twitter, Inc."
+  },
+  "app_tags": {
+    "tags": [
+      "Social Networking",
+      "Microblogging",
+      "News",
+      "Social Media",
+      "Real-time Updates"
+    ]
+  }
+}

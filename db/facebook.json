@@ -1,0 +1,76 @@
+{
+  "app_title": "Facebook",
+  "short_app_title": "Facebook",
+  "app_category": "social",
+  "in_app_purchase": true,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715850364/facebook_lwzbye.webp",
+  "rated_for": "13+",
+  "pwa_url": "https://www.facebook.com/",
+  "manifest_url": "https://www.facebook.com/manifest.json",
+  "new_app_features": "### Latest Features\\n- Watch: Discover new videos from creators and publishers you follow.\\n- Marketplace: Buy and sell items with people in your community.\\n- Rooms: Host or join video calls with up to 50 participants.\\n",
+  "privacy policy": {
+    "is_data_shared_with_third_party": true,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Email Address",
+          "reason": "To send you important updates and notifications."
+        },
+        {
+          "name": "Phone Number",
+          "reason": "To provide account security and send important notifications."
+        },
+        {
+          "name": "User ID",
+          "reason": "To uniquely identify your account and enable login."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Post",
+          "reason": "To share updates, photos, and videos with friends and followers."
+        },
+        {
+          "name": "Like",
+          "reason": "To express appreciation for posts from friends and pages."
+        },
+        {
+          "name": "Comment",
+          "reason": "To engage in conversations with friends and pages."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "about_this_app": "# Facebook\\n\\nFacebook is a social networking platform that allows users to connect with friends and family, discover new content, and join communities of interest. Users can share updates, photos, and videos, engage in conversations, and stay informed about news and events.\\n\\n## Key Features:\\n\\n- **News Feed**: Stay updated with posts from friends, pages, and groups you follow.\\n\\n- **Profile**: Share updates, photos, and videos on your profile to keep friends and followers informed.\\n\\n- **Friends and Followers**: Connect with friends and follow public figures, businesses, and organizations.\\n\\n- **Groups**: Join communities of interest to discuss topics, share content, and connect with like-minded individuals.\\n\\n- **Events**: Discover local events and RSVP to attend or invite friends to your own events.\\n\\n- **Marketplace**: Buy and sell items with people in your community.\\n\\n- **Watch**: Discover new videos from creators and publishers you follow.\\n\\n- **Rooms**: Host or join video calls with up to 50 participants.\\n\\nFor more information or support, visit the [Facebook Help Center](https://www.facebook.com/help/) or contact Facebook support at [support@facebook.com](mailto:support@facebook.com)",
+    "app_version": "10.0.0",
+    "Updated_on": "2024-04-20",
+    "Required_Os": "Android 6.0> or iOS 12.0> or Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": true,
+      "purchase_range": "Free - In-app purchases"
+    },
+    "content_rating": "Rated for 13+",
+    "interactive_elements": "Users interact, Shares location, Digital purchases",
+    "released_on": "2004-02-04",
+    "developer": "Facebook, Inc."
+  },
+  "app_tags": {
+    "tags": [
+      "Social Networking",
+      "Community",
+      "News",
+      "Marketplace",
+      "Video Calls"
+    ]
+  }
+}

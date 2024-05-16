@@ -1,0 +1,75 @@
+{
+  "apps": [
+    {
+      "id": "facebook",
+      "title": "Facebook",
+      "rate": 3.4,
+      "image": "/facebook.webp",
+      "category": "social",
+      "tags": ["social", "shopping"]
+    },
+    {
+      "id": "pinterest",
+      "title": "Pinterest",
+      "rate": 3.4,
+      "image": "/pinterest.webp",
+      "category": "shopping",
+      "tags": ["social", "shopping"]
+    },
+    {
+      "id": "snapchat",
+      "title": "Snapchat",
+      "rate": 3.4,
+      "image": "/snapchat.webp",
+      "category": "social",
+      "tags": ["social", "shopping"]
+    },
+    {
+      "id": "spotify",
+      "title": "Spotify: Music and Podcasts",
+      "rate": 3.4,
+      "image": "/spotify.webp",
+      "category": "music",
+      "tags": ["music", "entertainment"]
+    },
+    {
+      "id": "tiktok",
+      "title": "TikTok",
+      "rate": 3.4,
+      "image": "/images/app-icons/tiktok.webp",
+      "category": "social",
+      "tags": ["social", "shopping"]
+    },
+    {
+      "id": "x",
+      "title": "X",
+      "rate": 3.4,
+      "image": "/images/app-icons/x.webp",
+      "category": "social",
+      "tags": ["social", "shopping"]
+    },
+    {
+      "id": "whatsapp",
+      "title": "WhatsApp",
+      "rate": 3.4,
+      "image": "/images/app-icons/whatsapp.webp",
+      "category": "social",
+      "tags": ["social", "shopping"]
+    },
+    {
+      "id": "youtube",
+      "title": "YouTube",
+      "rate": 3.4,
+      "image": "/images/app-icons/youtube-logo.webp",
+      "category": "video",
+      "tags": ["video", "entertainment"]
+    }
+  ],
+  "comments": [
+    { "id": "1", "text": "a comment about post 1", "postId": "1" },
+    { "id": "2", "text": "another comment about post 1", "postId": "1" }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -7,8 +7,8 @@
   "rated_for": "12+",
   "pwa_url": "https://twitter.com/",
   "manifest_url": "https://twitter.com/manifest.json",
-  "new_app_features": "### Latest Features\\n- Twitter introduces Fleets, ephemeral tweets that disappear after 24 hours.\\n- Voice tweets allow users to record and share audio snippets.\\n- Spaces enable users to host and join live audio conversations.\\n",
-  "privacy policy": {
+  "new_app_features": "- Twitter introduces Fleets, ephemeral tweets that disappear after 24 hours. - Voice tweets allow users to record and share audio snippets. - Spaces enable users to host and join live audio conversations. ",
+  "privacy_policy": {
     "is_data_shared_with_third_party": true,
     "is_data_collected": true,
     "is_data_encrypted": true,
@@ -51,7 +51,7 @@
     }
   },
   "application_information": {
-    "about_this_app": "# Twitter\\n\\nTwitter is a social networking platform where users can share thoughts, news, and updates with short text messages known as tweets. Users can follow other accounts to see their tweets in their timeline and engage with content through likes, retweets, and replies.\\n\\n## Key Features:\\n\\n- **Tweets**: Share short text messages, photos, videos, and GIFs with followers.\\n\\n- **Retweets**: Share tweets from others with your followers.\\n\\n- **Likes**: Show appreciation for tweets by liking them.\\n\\n- **Followers and Following**: Build a network by following and being followed by other users.\\n\\n- **Notifications**: Receive notifications for mentions, likes, retweets, and new followers.\\n\\n- **Direct Messages**: Send private messages to other users.\\n\\n- **Lists**: Organize accounts into custom lists to curate your timeline.\\n\\n- **Explore Tab**: Discover trending topics, hashtags, and accounts.\\n\\n- **Twitter Spaces**: Host and join live audio conversations with other users.\\n\\n- **Fleets**: Share ephemeral tweets that disappear after 24 hours.\\n\\nFor more information or support, visit the [Twitter Help Center](https://help.twitter.com/) or contact Twitter support at [support@twitter.com](mailto:support@twitter.com)",
+    "about_this_app": "# Twitter Twitter is a social networking platform where users can share thoughts, news, and updates with short text messages known as tweets. Users can follow other accounts to see their tweets in their timeline and engage with content through likes, retweets, and replies. ## Key Features: - **Tweets**: Share short text messages, photos, videos, and GIFs with followers. - **Retweets**: Share tweets from others with your followers. - **Likes**: Show appreciation for tweets by liking them. - **Followers and Following**: Build a network by following and being followed by other users. - **Notifications**: Receive notifications for mentions, likes, retweets, and new followers. - **Direct Messages**: Send private messages to other users. - **Lists**: Organize accounts into custom lists to curate your timeline. - **Explore Tab**: Discover trending topics, hashtags, and accounts. - **Twitter Spaces**: Host and join live audio conversations with other users. - **Fleets**: Share ephemeral tweets that disappear after 24 hours. For more information or support, visit the [Twitter Help Center](https://help.twitter.com/) or contact Twitter support at [support@twitter.com](mailto:support@twitter.com)",
     "app_version": "9.0.0",
     "Updated_on": "2024-04-15",
     "Required_Os": "Android 6.0> or iOS 12.0> or Web Browser",

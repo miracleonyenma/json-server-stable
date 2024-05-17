@@ -27,7 +27,7 @@
     "id": "tiktok",
     "title": "TikTok",
     "rate": 3.4,
-    "image": "/images/app-icons/tiktok.webp",
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1715847599/appstore/tiktok_obes7g.webp",
     "category": "social",
     "tags": ["social networking", "shopping"]
   },

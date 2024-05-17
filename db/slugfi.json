@@ -1,0 +1,72 @@
+{
+  "id": "slugfi",
+  "app_title": "Slugfi",
+  "short_app_title": "Slugfi",
+  "app_category": "tools",
+  "in_app_purchase": false,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715907966/icon-512x512_mmhomx.png",
+  "rated_for": "4+",
+  "pwa_url": "https://slugfi.com/",
+  "manifest_url": "https://slugfi.com/manifest.json",
+  "new_app_features": "### Latest Features\\n- New customizable options for slug generation.\\n- Enhanced performance and faster slug generation.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": false,
+    "is_data_collected": false,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": false,
+      "data": []
+    },
+    "app_activity": {
+      "collect": false,
+      "data": []
+    }
+  },
+  "application_information": {
+    "description": "Generate URL friendly slugs with Slugfi. Slugfi is a free tool that helps you generate URL friendly slugs for your blog posts, articles, and other content.",
+    "about_this_app": "# Slugfi\\n\\nGenerate URL friendly slugs with Slugfi. Slugfi is a free tool that helps you generate URL friendly slugs for your blog posts, articles, and other content.\\n\\n## Key Features:\\n\\n- **Slug Generation**: Easily generate URL friendly slugs for any content.\\n\\n- **Customizable Options**: Customize slug generation with various options to suit your needs.\\n\\n- **Free Tool**: Use Slugfi for free to enhance your content's URL structure.\\n\\nFor more information or support, visit the [Slugfi Help Center](https://slugfi.com/help) or contact Slugfi support at [support@slugfi.com](mailto:support@slugfi.com).",
+    "app_version": "1.0.0",
+    "updated_on": "2024-05-16",
+    "required_os": "Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": false,
+      "purchase_range": ""
+    },
+    "content_rating": "Rated for 4+",
+    "interactive_elements": "Users interact",
+    "released_on": "2024-05-16",
+    "developer": "Slugfi Inc."
+  },
+  "app_tags": {
+    "tags": ["Tools", "URL", "Slug", "SEO", "Content"]
+  },
+  "support": [
+    {
+      "id": "website",
+      "name": "Website",
+      "value": "Slugfi Help Center",
+      "url": "https://slugfi.com/help"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "value": "Slugfi Support Email",
+      "url": "mailto:support@slugfi.com"
+    },
+    {
+      "id": "address",
+      "name": "Address",
+      "value": "123 Content St, SEO City, SC 12345",
+      "url": "https://goo.gl/maps/SlugfiHQ"
+    },
+    {
+      "id": "privacy_policy",
+      "name": "Privacy Policy",
+      "value": "Slugfi Privacy Policy",
+      "url": "https://slugfi.com/privacy"
+    }
+  ]
+}

@@ -5,7 +5,7 @@
     "rate": 3.4,
     "image": "/facebook.webp",
     "category": "social",
-    "tags": ["social", "shopping"]
+    "tags": ["social networking", "shopping"]
   },
   {
     "id": "pinterest",
@@ -13,7 +13,7 @@
     "rate": 3.4,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1715850374/pinterest_ku7xbp.webp",
     "category": "shopping",
-    "tags": ["social", "shopping"]
+    "tags": ["social networking", "shopping"]
   },
   {
     "id": "snapchat",
@@ -21,7 +21,7 @@
     "rate": 3.4,
     "image": "/snapchat.webp",
     "category": "social",
-    "tags": ["social", "shopping"]
+    "tags": ["social networking", "shopping"]
   },
   {
     "id": "tiktok",
@@ -29,7 +29,7 @@
     "rate": 3.4,
     "image": "/images/app-icons/tiktok.webp",
     "category": "social",
-    "tags": ["social", "shopping"]
+    "tags": ["social networking", "shopping"]
   },
   {
     "id": "x",
@@ -37,7 +37,7 @@
     "rate": 3.4,
     "image": "/images/app-icons/x.webp",
     "category": "social",
-    "tags": ["social", "shopping"]
+    "tags": ["social networking", "shopping"]
   },
   {
     "id": "whatsapp",
@@ -45,7 +45,7 @@
     "rate": 3.4,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1715850380/whatsapp_jzpki8.png",
     "category": "social",
-    "tags": ["social", "shopping"]
+    "tags": ["social networking", "shopping"]
   },
   {
     "id": "youtube",
@@ -53,7 +53,7 @@
     "rate": 3.4,
     "image": "/images/app-icons/youtube-logo.webp",
     "category": "video",
-    "tags": ["video", "entertainment"]
+    "tags": ["entertainment", "video"]
   },
   {
     "id": "100pay-app",
@@ -62,5 +62,13 @@
     "image": "https://res.cloudinary.com/alphas/image/upload/v1715524934/discord-logo_eqerbi.jpg",
     "category": "finance",
     "tags": ["finance", "shopping"]
+  },
+  {
+    "id": "slugfi",
+    "title": "Slugfi",
+    "rate": 4.8,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1715907966/icon-512x512_mmhomx.png",
+    "category": "utilities",
+    "tags": ["productivity"]
   }
 ]

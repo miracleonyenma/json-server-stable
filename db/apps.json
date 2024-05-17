@@ -16,6 +16,14 @@
     "tags": ["productivity"]
   },
   {
+    "id": "contest",
+    "title": "Contest",
+    "rate": 4.7,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1715959386/icon-512x512_v4cgmd.png",
+    "category": "entertainment",
+    "tags": ["entertainment", "shopping"]
+  },
+  {
     "id": "facebook",
     "title": "Facebook",
     "rate": 3.4,

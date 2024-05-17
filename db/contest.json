@@ -1,0 +1,104 @@
+{
+  "id": "contest",
+  "app_title": "Contest",
+  "short_app_title": "Contest",
+  "app_category": "entertainment",
+  "in_app_purchase": true,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715959386/icon-512x512_v4cgmd.png",
+  "rated_for": "4+",
+  "pwa_url": "https://contest.100pay.com/",
+  "manifest_url": "https://contest.100pay.com/manifest.json",
+  "new_app_features": "### Latest Features\\n- Participate in new contests with high-quality products.\\n- Improved user interface for a smoother experience.\\n- Enhanced security features to protect user data.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": false,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Email Address",
+          "reason": "To notify users about contest results and updates."
+        },
+        {
+          "name": "Phone Number",
+          "reason": "To verify user identity and send notifications."
+        },
+        {
+          "name": "Shipping Address",
+          "reason": "To deliver prizes to winners."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Contest Participation",
+          "reason": "To track user participation and reward distribution."
+        },
+        {
+          "name": "User Interactions",
+          "reason": "To improve user experience and app functionality."
+        },
+        {
+          "name": "Device Information",
+          "reason": "To optimize app performance and ensure compatibility."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "description": "The Contest app is an innovative play-to-earn application that allows users to enter contests where they can win top-quality products at a 99% discount. It guarantees a win for everyone who participates.",
+    "about_this_app": "# Contest\\n\\nThe Contest app is an innovative play-to-earn application that allows users to enter contests where they can win top-quality products at a 99% discount. It guarantees a win for everyone who participates. This means that users engage in contests through the app and have the opportunity to obtain high-quality products at significantly reduced prices, with assured rewards for all participants.\\n\\n## Key Features:\\n\\n- **Play-to-Earn**: Enter contests to win high-quality products at a fraction of the price.\\n\\n- **Guaranteed Rewards**: Every participant wins a prize, ensuring a rewarding experience for all.\\n\\n- **High-Quality Products**: Win top-quality products from various categories.\\n\\n- **User-Friendly Interface**: Enjoy a seamless and engaging user experience.\\n\\n- **Secure Transactions**: Enhanced security features to protect user data and ensure safe transactions.\\n\\nFor more information or support, visit the [Contest Help Center](https://contest.100pay.com/help) or contact Contest support at [support@100pay.com](mailto:support@100pay.com).",
+    "app_version": "1.0.0",
+    "updated_on": "2024-05-17",
+    "required_os": "Android 6.0> or iOS 12.0> or Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": true,
+      "purchase_range": "$0.99 - $49.99 per item"
+    },
+    "content_rating": "Rated for 4+",
+    "interactive_elements": "Users interact, Digital purchases",
+    "released_on": "2024-05-17",
+    "developer": "100Pay Inc."
+  },
+  "app_tags": {
+    "tags": [
+      "Entertainment",
+      "Contests",
+      "Play-to-Earn",
+      "Rewards",
+      "Discounts"
+    ]
+  },
+  "support": [
+    {
+      "id": "website",
+      "name": "Website",
+      "value": "Contest Help Center",
+      "url": "https://contest.100pay.com/help"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "value": "Contest Support Email",
+      "url": "mailto:support@100pay.com"
+    },
+    {
+      "id": "address",
+      "name": "Address",
+      "value": "456 Contest St, Win City, WC 65432",
+      "url": "https://goo.gl/maps/ContestHQ"
+    },
+    {
+      "id": "privacy_policy",
+      "name": "Privacy Policy",
+      "value": "Contest Privacy Policy",
+      "url": "https://contest.100pay.com/privacy"
+    }
+  ]
+}

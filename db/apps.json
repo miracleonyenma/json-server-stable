@@ -1,5 +1,21 @@
 [
   {
+    "id": "100pay-app",
+    "title": "100Pay App",
+    "rate": 5.0,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1715524934/discord-logo_eqerbi.jpg",
+    "category": "finance",
+    "tags": ["finance", "shopping"]
+  },
+  {
+    "id": "slugfi",
+    "title": "Slugfi",
+    "rate": 4.8,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1715907966/icon-512x512_mmhomx.png",
+    "category": "utilities",
+    "tags": ["productivity"]
+  },
+  {
     "id": "facebook",
     "title": "Facebook",
     "rate": 3.4,
@@ -54,21 +70,5 @@
     "image": "/images/app-icons/youtube-logo.webp",
     "category": "video",
     "tags": ["entertainment", "video"]
-  },
-  {
-    "id": "100pay-app",
-    "title": "100Pay App",
-    "rate": 5.0,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1715524934/discord-logo_eqerbi.jpg",
-    "category": "finance",
-    "tags": ["finance", "shopping"]
-  },
-  {
-    "id": "slugfi",
-    "title": "Slugfi",
-    "rate": 4.8,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1715907966/icon-512x512_mmhomx.png",
-    "category": "utilities",
-    "tags": ["productivity"]
   }
 ]

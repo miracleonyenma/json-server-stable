@@ -1,14 +1,14 @@
 {
   "id": "whatsapp",
-  "app_title": "WhatsApp Business",
+  "app_title": "WhatsApp Messenger",
   "short_app_title": "WhatsApp",
-  "app_category": "social",
-  "in_app_purchase": true,
-  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715850380/whatsapp_jzpki8.png",
+  "app_category": "communication",
+  "in_app_purchase": false,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715847600/appstore/whatsapp_tpgjaq.webp",
   "rated_for": "3+",
   "pwa_url": "https://web.whatsapp.com/",
-  "manifest_url": "https://www.whatsapp.com/download/",
-  "new_app_features": "WhatsApp Business enables you to have a business presence on WhatsApp, communicate more efficiently with your customers, and help you grow your business.   - If you have separate business and personal phone numbers, you can have both WhatsApp Business and WhatsApp Messenger installed on the same phone, and register them with different numbers.",
+  "manifest_url": "https://www.whatsapp.com/manifest.json",
+  "new_app_features": "### Latest Features\\n- New animated stickers for more expressive communication.\\n- QR codes to easily add new contacts.\\n- Dark mode for a better user experience in low light.\\n- Group video calls with up to 8 participants.",
   "privacy_policy": {
     "is_data_shared_with_third_party": false,
     "is_data_collected": true,
@@ -20,20 +20,16 @@
       "collect": true,
       "data": [
         {
-          "name": "Email Address",
-          "reason": "To send you important information about our products and services, including important updates and notifications."
-        },
-        {
           "name": "Phone Number",
-          "reason": "To send you important information about our products and services, including important updates and notifications."
+          "reason": "To provide a unique identifier for your account and enable login."
         },
         {
-          "name": "User ID",
-          "reason": "To provide you with a unique identifier to access our services."
+          "name": "Contact List",
+          "reason": "To connect you with your contacts who are using WhatsApp."
         },
         {
-          "name": "Address",
-          "reason": "To provide you with a unique identifier to access our services."
+          "name": "Profile Information",
+          "reason": "To display your name and profile picture to your contacts."
         }
       ]
     },
@@ -41,45 +37,56 @@
       "collect": true,
       "data": [
         {
-          "name": "App Launch",
-          "reason": "To provide you with a unique identifier to access our services."
+          "name": "Message Logs",
+          "reason": "To provide a history of your conversations."
         },
         {
-          "name": "App usage time",
-          "reason": "To provide you with a unique identifier to access our services."
+          "name": "Call Logs",
+          "reason": "To provide a history of your voice and video calls."
         },
         {
-          "name": "Browser Interaction",
-          "reason": "To provide you with a unique identifier to access our services."
+          "name": "Usage Data",
+          "reason": "To improve the app performance and user experience."
         }
       ]
     }
   },
   "application_information": {
-    "about_this_app": "WhatsApp Messenger is a popular messaging application owned by Meta Platforms, formerly known as Facebook. It enables users to send text messages, voice messages, make voice and video calls, share images, documents, user locations, and other media files securely over the internet, using mobile data or Wi-Fi connections. ## Key Features: - **Messaging**: Send text messages, voice messages, photos, videos, and documents to individuals or groups. - **Voice and Video Calls**: Make high-quality voice and video calls to contacts worldwide. - **End-to-End Encryption**: All messages and calls are secured with end-to-end encryption, ensuring privacy and security. - **Group Chats**: Create and participate in group chats with friends, family, or colleagues. - **Status Updates**: Share photos, videos, and text as status updates visible to selected contacts for 24 hours. - **Media Sharing**: Share photos, videos, GIFs, documents, and user locations instantly. - **WhatsApp Web**: Access WhatsApp on your computer's web browser to send and receive messages seamlessly. - **Cross-Platform Compatibility**: Available on various platforms including Android, iOS, Windows Phone, and desktop computers. - **Voice Messages**: Record and send voice messages for quick communication. - **Call Forwarding**: Forward calls to another WhatsApp user or phone number. ## Business Features (WhatsApp Business): WhatsApp also offers a business version called WhatsApp Business, which provides additional features tailored for small and medium-sized businesses: - **Business Profile**: Create a business profile with essential information like business description, contact details, and website link. - **Messaging Tools**: Use features like Away messages and Greeting messages to automate responses and engage with customers efficiently. - **Landline/Fixed Number Support**: Use WhatsApp Business with a landline or fixed phone number for customer communication. - **Dual App Support**: Run both WhatsApp Messenger and WhatsApp Business on the same device, each with its own unique phone number. - **WhatsApp Web for Business**: Manage business conversations and respond to customers directly from your computer's browser. ## Data Usage: WhatsApp uses a minimal amount of data for sending and receiving messages and calls. However, data charges may apply, depending on your mobile data plan. Contact your service provider for details on data usage charges. ## Privacy and Security: WhatsApp prioritizes user privacy and security by implementing end-to-end encryption for all messages and calls. This means that only the sender and recipient can access the content of their communications, ensuring that messages remain private and secure. For more information or support, visit the [WhatsApp Help Center](https://faq.whatsapp.com/) or contact WhatsApp support at [support@whatsapp.com](mailto:support@whatsapp.com). ",
-    "app_version": "2.22.0",
-    "Updated_on": "2024-03-01",
-    "Required_Os": "Android 4.1> or iOS 10.0> or Windows Phone 8.1> or macOS 10.10> or Windows 8> or Ubuntu 14.04> or Tizen 2.3> or KaiOS 2.5.1> or Web Browser",
+    "description": "WhatsApp Messenger is a popular messaging application that allows users to send text messages, voice messages, make voice and video calls, share images, documents, and other media files securely over the internet.",
+    "about_this_app": "# WhatsApp Messenger\\n\\nWhatsApp Messenger is a popular messaging application owned by Meta Platforms. It enables users to send text messages, voice messages, make voice and video calls, share images, documents, user locations, and other media files securely over the internet using mobile data or Wi-Fi connections.\\n\\n## Key Features:\\n\\n- **Messaging**: Send text messages, voice messages, photos, videos, and documents to individuals or groups.\\n\\n- **Voice and Video Calls**: Make high-quality voice and video calls to contacts worldwide.\\n\\n- **End-to-End Encryption**: All messages and calls are secured with end-to-end encryption, ensuring privacy and security.\\n\\n- **Group Chats**: Create and participate in group chats with friends, family, or colleagues.\\n\\n- **Status Updates**: Share photos, videos, and text as status updates visible to selected contacts for 24 hours.\\n\\n- **Media Sharing**: Share photos, videos, GIFs, documents, and user locations instantly.\\n\\n- **WhatsApp Web**: Access WhatsApp on your computer's web browser to send and receive messages seamlessly.\\n\\nFor more information or support, visit the [WhatsApp Help Center](https://faq.whatsapp.com/) or contact WhatsApp support at [support@whatsapp.com](mailto:support@whatsapp.com).",
+    "app_version": "2.21.8",
+    "updated_on": "2024-05-01",
+    "required_os": "Android 4.1> or iOS 10.0> or Web Browser",
     "in_app_purchase": {
-      "has_in_app_purchase": true,
-      "purchase_range": "$0.99 - $29.99 per item"
+      "has_in_app_purchase": false,
+      "purchase_range": ""
     },
     "content_rating": "Rated for 3+",
-    "interactive_elements": "Users interact, Shares location, Digital purchases",
-    "released_on": "2010-01-01",
-    "developer": "Meta Platforms, Inc."
+    "interactive_elements": "Users interact, Shares location",
+    "released_on": "2009-11-01",
+    "developer": "WhatsApp Inc."
   },
   "app_tags": {
     "tags": [
-      "Communication",
       "Messaging",
       "Voice Calls",
       "Video Calls",
-      "Group Chats",
       "Media Sharing",
-      "End-to-End Encryption",
-      "Cross-Platform",
-      "Status Updates"
+      "End-to-End Encryption"
     ]
-  }
+  },
+  "support": [
+    {
+      "id": "website",
+      "name": "Website",
+      "value": "WhatsApp Help Center",
+      "url": "https://faq.whatsapp.com/"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "value": "WhatsApp Support Email",
+      "url": "mailto:support@whatsapp.com"
+    }
+  ]
 }

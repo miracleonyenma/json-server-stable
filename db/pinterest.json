@@ -1,0 +1,92 @@
+{
+  "id": "pinterest",
+  "app_title": "Pinterest",
+  "short_app_title": "Pinterest",
+  "app_category": "social",
+  "in_app_purchase": true,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715850374/pinterest_ku7xbp.webp",
+  "rated_for": "12+",
+  "pwa_url": "https://www.pinterest.com/",
+  "manifest_url": "https://www.pinterest.com/manifest.json",
+  "new_app_features": "### Latest Features\\n- Idea Pins: Create and share multi-page video Pins with voiceover and editing tools.\\n- Pinterest TV: Watch live episodes featuring creators and influencers.\\n- Shopping List: Save product Pins and get price updates on items you're interested in.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": true,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Email Address",
+          "reason": "To send you important updates and notifications."
+        },
+        {
+          "name": "Phone Number",
+          "reason": "To provide account security and send important notifications."
+        },
+        {
+          "name": "User ID",
+          "reason": "To uniquely identify your account and enable login."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Pin Creation",
+          "reason": "To allow you to save and organize content that interests you."
+        },
+        {
+          "name": "Board Creation",
+          "reason": "To organize your Pins into different categories for easy access."
+        },
+        {
+          "name": "Search History",
+          "reason": "To provide personalized content and recommendations."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "description": "Pinterest is a visual discovery and bookmarking platform where users can find and save ideas for various interests such as recipes, home decor, fashion, and more. Users can create Pins, organize them into Boards, and explore content shared by others.",
+    "about_this_app": "# Pinterest\\n\\nPinterest is a visual discovery and bookmarking platform that allows users to find and save ideas for various interests such as recipes, home decor, fashion, and more. Users can create Pins, organize them into Boards, and explore content shared by others.\\n\\n## Key Features:\\n\\n- **Pins**: Save and organize content that interests you from across the web.\\n\\n- **Boards**: Organize your Pins into different categories for easy access.\\n\\n- **Search**: Discover new ideas and inspiration based on your interests.\\n\\n- **Explore Tab**: Find trending content and popular Pins in various categories.\\n\\n- **Idea Pins**: Create and share multi-page video Pins with voiceover and editing tools.\\n\\n- **Pinterest TV**: Watch live episodes featuring creators and influencers.\\n\\n- **Shopping List**: Save product Pins and get price updates on items you're interested in.\\n\\nFor more information or support, visit the [Pinterest Help Center](https://help.pinterest.com/) or contact Pinterest support at [support@pinterest.com](mailto:support@pinterest.com).",
+    "app_version": "9.0.0",
+    "updated_on": "2024-05-01",
+    "required_os": "Android 5.0> or iOS 11.0> or Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": true,
+      "purchase_range": "$0.99 - $199.99 per item"
+    },
+    "content_rating": "Rated for 12+",
+    "interactive_elements": "Users interact, Shares location, Digital purchases",
+    "released_on": "2010-03-01",
+    "developer": "Pinterest, Inc."
+  },
+  "app_tags": {
+    "tags": [
+      "Social Networking",
+      "Visual Discovery",
+      "Bookmarks",
+      "Inspiration",
+      "Shopping"
+    ]
+  },
+  "support": [
+    {
+      "id": "website",
+      "name": "Website",
+      "value": "Pinterest Help Center",
+      "url": "https://help.pinterest.com/"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "value": "Pinterest Support Email",
+      "url": "mailto:support@pinterest.com"
+    }
+  ]
+}

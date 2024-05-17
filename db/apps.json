@@ -11,7 +11,7 @@
     "id": "pinterest",
     "title": "Pinterest",
     "rate": 3.4,
-    "image": "/pinterest.webp",
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1715850374/pinterest_ku7xbp.webp",
     "category": "shopping",
     "tags": ["social", "shopping"]
   },
@@ -22,14 +22,6 @@
     "image": "/snapchat.webp",
     "category": "social",
     "tags": ["social", "shopping"]
-  },
-  {
-    "id": "spotify",
-    "title": "Spotify: Music and Podcasts",
-    "rate": 3.4,
-    "image": "/spotify.webp",
-    "category": "music",
-    "tags": ["music", "entertainment"]
   },
   {
     "id": "tiktok",
@@ -51,7 +43,7 @@
     "id": "whatsapp",
     "title": "WhatsApp",
     "rate": 3.4,
-    "image": "/images/app-icons/whatsapp.webp",
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1715850380/whatsapp_jzpki8.png",
     "category": "social",
     "tags": ["social", "shopping"]
   },
@@ -62,5 +54,13 @@
     "image": "/images/app-icons/youtube-logo.webp",
     "category": "video",
     "tags": ["video", "entertainment"]
+  },
+  {
+    "id": "100pay-app",
+    "title": "100Pay App",
+    "rate": 5.0,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1715524934/discord-logo_eqerbi.jpg",
+    "category": "finance",
+    "tags": ["finance", "shopping"]
   }
 ]

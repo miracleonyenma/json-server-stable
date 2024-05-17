@@ -1,0 +1,92 @@
+{
+  "id": "spotify",
+  "app_title": "Spotify",
+  "short_app_title": "Spotify",
+  "app_category": "music",
+  "in_app_purchase": true,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715850378/spotify_nmxcba.webp",
+  "rated_for": "12+",
+  "pwa_url": "https://open.spotify.com/",
+  "manifest_url": "https://open.spotify.com/manifest.json",
+  "new_app_features": "### Latest Features\\n- Group Sessions: Listen together with friends in real-time.\\n- Enhanced Lyrics: Sing along with time-synced lyrics.\\n- Podcast Subscriptions: Support your favorite creators with exclusive content.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": true,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Email Address",
+          "reason": "To send you important updates and personalized recommendations."
+        },
+        {
+          "name": "Phone Number",
+          "reason": "To provide account security and notifications."
+        },
+        {
+          "name": "User ID",
+          "reason": "To uniquely identify your account and enable login."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Listening History",
+          "reason": "To provide personalized recommendations and improve the user experience."
+        },
+        {
+          "name": "Search History",
+          "reason": "To improve search functionality and provide personalized recommendations."
+        },
+        {
+          "name": "Playlists",
+          "reason": "To allow you to organize and access your favorite music and podcasts."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "description": "Spotify is a music streaming service that provides access to millions of songs, podcasts, and videos from artists all over the world. Users can create and share playlists, discover new music, and enjoy personalized recommendations.",
+    "about_this_app": "# Spotify\\n\\nSpotify is a music streaming service that provides access to millions of songs, podcasts, and videos from artists all over the world. Users can create and share playlists, discover new music, and enjoy personalized recommendations.\\n\\n## Key Features:\\n\\n- **Music Streaming**: Stream millions of songs from various genres and artists.\\n\\n- **Podcasts**: Listen to a wide range of podcasts from different categories.\\n\\n- **Playlists**: Create and share your own playlists or discover playlists curated by Spotify.\\n\\n- **Personalized Recommendations**: Get music and podcast recommendations based on your listening habits.\\n\\n- **Group Sessions**: Listen together with friends in real-time.\\n\\n- **Enhanced Lyrics**: Sing along with time-synced lyrics.\\n\\n- **Offline Mode**: Download music and podcasts for offline listening.\\n\\n- **Podcast Subscriptions**: Support your favorite creators with exclusive content.\\n\\nFor more information or support, visit the [Spotify Help Center](https://support.spotify.com/) or contact Spotify support at [support@spotify.com](mailto:support@spotify.com).",
+    "app_version": "8.6.84",
+    "updated_on": "2024-05-01",
+    "required_os": "Android 5.0> or iOS 11.0> or Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": true,
+      "purchase_range": "$0.99 - $14.99 per month"
+    },
+    "content_rating": "Rated for 12+",
+    "interactive_elements": "Users interact, Shares location, Digital purchases",
+    "released_on": "2008-10-07",
+    "developer": "Spotify AB"
+  },
+  "app_tags": {
+    "tags": [
+      "Music Streaming",
+      "Podcasts",
+      "Playlists",
+      "Personalized Recommendations",
+      "Offline Listening"
+    ]
+  },
+  "support": [
+    {
+      "id": "website",
+      "name": "Website",
+      "value": "Spotify Help Center",
+      "url": "https://support.spotify.com/"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "value": "Spotify Support Email",
+      "url": "mailto:support@spotify.com"
+    }
+  ]
+}

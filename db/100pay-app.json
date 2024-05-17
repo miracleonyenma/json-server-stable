@@ -6,8 +6,8 @@
   "in_app_purchase": true,
   "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715524934/discord-logo_eqerbi.jpg",
   "rated_for": "4+",
-  "pwa_url": "https://100pay.com/",
-  "manifest_url": "https://100pay.com/manifest.json",
+  "pwa_url": "https://100payapp.netlify.app/",
+  "manifest_url": "https://100payapp.netlify.app/manifest.json",
   "new_app_features": "### Latest Features\\n- Instant money transfers with zero fees.\\n- New budgeting tools to track expenses.\\n- Enhanced security features with biometric authentication.",
   "privacy_policy": {
     "is_data_shared_with_third_party": true,
@@ -57,7 +57,7 @@
   },
   "application_information": {
     "description": "100Pay is a financial management app that allows users to send and receive money, track expenses, and manage their budget all in one place.",
-    "about_this_app": "# 100Pay\\n\\n100Pay is a comprehensive financial management app designed to simplify money management for individuals and businesses. With 100Pay, users can send and receive money instantly, track their expenses, and utilize budgeting tools to stay on top of their finances.\\n\\n## Key Features:\\n\\n- **Instant Money Transfers**: Send and receive money with zero fees.\\n\\n- **Expense Tracking**: Monitor your spending habits and categorize expenses.\\n\\n- **Budgeting Tools**: Set financial goals and create budgets to manage your money effectively.\\n\\n- **Secure Transactions**: Benefit from enhanced security features including biometric authentication and encryption.\\n\\n- **Financial Reports**: Generate detailed reports to analyze your financial health.\\n\\n- **Alerts and Notifications**: Receive real-time alerts for transactions and account activities.\\n\\nFor more information or support, visit the [100Pay Help Center](https://100pay.com/help) or contact 100Pay support at [support@100pay.com](mailto:support@100pay.com).",
+    "about_this_app": "# 100Pay\\n\\n100Pay is a comprehensive financial management app designed to simplify money management for individuals and businesses. With 100Pay, users can send and receive money instantly, track their expenses, and utilize budgeting tools to stay on top of their finances.\\n\\n## Key Features:\\n\\n- **Instant Money Transfers**: Send and receive money with zero fees.\\n\\n- **Expense Tracking**: Monitor your spending habits and categorize expenses.\\n\\n- **Budgeting Tools**: Set financial goals and create budgets to manage your money effectively.\\n\\n- **Secure Transactions**: Benefit from enhanced security features including biometric authentication and encryption.\\n\\n- **Financial Reports**: Generate detailed reports to analyze your financial health.\\n\\n- **Alerts and Notifications**: Receive real-time alerts for transactions and account activities.\\n\\nFor more information or support, visit the [100Pay Help Center](https://100payapp.netlify.app/help) or contact 100Pay support at [support@100pay.com](mailto:support@100pay.com).",
     "app_version": "3.5.1",
     "updated_on": "2024-04-25",
     "required_os": "Android 5.0> or iOS 11.0> or Web Browser",
@@ -84,7 +84,7 @@
       "id": "website",
       "name": "Website",
       "value": "100Pay Help Center",
-      "url": "https://100pay.com/help"
+      "url": "https://100payapp.netlify.app/help"
     },
     {
       "id": "email",
@@ -102,7 +102,7 @@
       "id": "privacy_policy",
       "name": "Privacy Policy",
       "value": "100Pay Privacy Policy",
-      "url": "https://100pay.com/privacy"
+      "url": "https://100payapp.netlify.app/privacy"
     }
   ]
 }

@@ -1,13 +1,14 @@
 {
   "id": "contest",
-  "app_title": "Contest",
+  "app_title": "Contest App",
   "short_app_title": "Contest",
   "app_category": "entertainment",
   "in_app_purchase": true,
   "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715959386/icon-512x512_v4cgmd.png",
   "rated_for": "12+",
-  "pwa_url": "https://contest-app-mio.netlify.app/#/download",
-  "manifest_url": "https://contest-app-mio.netlify.app/manifest.json",
+  "pwa_url_download": "https://play.joincontest.app/download",
+  "pwa_url": "https://play.joincontest.app/",
+  "manifest_url": "https://play.joincontest.app/manifest.json",
   "new_app_features": "Participate in new contests with high-quality products. Improved user interface for a smoother experience. Enhanced security features to protect user data.",
   "privacy_policy": {
     "is_data_shared_with_third_party": false,
@@ -53,7 +54,7 @@
   },
   "application_information": {
     "description": "The Contest app is an innovative play-to-earn application that allows users to enter contests where they can win top-quality products at a 99% discount. It guarantees a win for everyone who participates.",
-    "about_this_app": "# Contest\\n\\nThe Contest app is an innovative play-to-earn application that allows users to enter contests where they can win top-quality products at a 99% discount. It guarantees a win for everyone who participates. This means that users engage in contests through the app and have the opportunity to obtain high-quality products at significantly reduced prices, with assured rewards for all participants.\\n\\n## Key Features:\\n\\n- **Play-to-Earn**: Enter contests to win high-quality products at a fraction of the price.\\n\\n- **Guaranteed Rewards**: Every participant wins a prize, ensuring a rewarding experience for all.\\n\\n- **High-Quality Products**: Win top-quality products from various categories.\\n\\n- **User-Friendly Interface**: Enjoy a seamless and engaging user experience.\\n\\n- **Secure Transactions**: Enhanced security features to protect user data and ensure safe transactions.\\n\\nFor more information or support, visit the [Contest Help Center](https://contestapp100pay.vercel.app/help) or contact Contest support at [support@100pay.com](mailto:support@100pay.com).",
+    "about_this_app": "The Contest app is an innovative play-to-earn application that allows users to enter contests where they can win top-quality products at a 99% discount. It guarantees a win for everyone who participates. This means that users engage in contests through the app and have the opportunity to obtain high-quality products at significantly reduced prices, with assured rewards for all participants.\\n\\n## Key Features:\\n\\n- **Play-to-Earn**: Enter contests to win high-quality products at a fraction of the price.\\n\\n- **Guaranteed Rewards**: Every participant wins a prize, ensuring a rewarding experience for all.\\n\\n- **High-Quality Products**: Win top-quality products from various categories.\\n\\n- **User-Friendly Interface**: Enjoy a seamless and engaging user experience.\\n\\n- **Secure Transactions**: Enhanced security features to protect user data and ensure safe transactions.\\n\\nFor more information or support, visit the [Contest Help Center](https://contestapp100pay.vercel.app/help) or contact Contest support at [support@100pay.com](mailto:support@100pay.com).",
     "app_version": "1.0.0",
     "updated_on": "2024-05-17",
     "required_os": "Android 6.0> or iOS 12.0> or Web Browser",

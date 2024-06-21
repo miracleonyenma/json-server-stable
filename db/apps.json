@@ -86,5 +86,21 @@
     "image": "/images/app-icons/youtube-logo.webp",
     "category": "video",
     "tags": ["entertainment", "video"]
+  },
+  {
+    "id": "nottes",
+    "title": "Nottes",
+    "rate": 4.8,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1719000810/appstore/Nottes_App_tlkmr2.png",
+    "category": "productivity",
+    "tags": ["productivity", "organization"]
+  },
+  {
+    "id": "to-do-vue",
+    "title": "To-Do Vue",
+    "rate": 4.0,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1719001317/appstore/dne_kehmcf.png",
+    "category": "productivity",
+    "tags": ["productivity", "task management"]
   }
 ]

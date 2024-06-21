@@ -1,0 +1,77 @@
+{
+  "id": "to-do-vue",
+  "app_title": "Dne To-Do",
+  "short_app_title": "Dne To-Do",
+  "app_category": "productivity",
+  "in_app_purchase": true,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1719001317/appstore/dne_kehmcf.png",
+  "rated_for": "12+",
+  "rating": 4.0,
+  "pwa_url": "https://to-do-vue.netlify.app/",
+  "manifest_url": "https://to-do-vue.netlify.app/manifest.json",
+  "new_app_features": "- Simple and intuitive to-do list interface. - Basic task management features. - Easy to use and accessible.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": true,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Email Address",
+          "reason": "To send you important updates and notifications."
+        },
+        {
+          "name": "Phone Number",
+          "reason": "To provide account security and send important notifications."
+        },
+        {
+          "name": "User ID",
+          "reason": "To uniquely identify your account and enable login."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Task Creation",
+          "reason": "To create and manage tasks."
+        },
+        {
+          "name": "Task Completion",
+          "reason": "To mark tasks as completed."
+        },
+        {
+          "name": "Task Deletion",
+          "reason": "To delete tasks."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "about_this_app": "# Dne To-Do Dne To-Do is a simple to-do list app designed for managing tasks. It offers basic features like task creation, completion, and deletion. ## Key Features: - **Task Creation**: Create and manage tasks with ease. - **Task Completion**: Mark tasks as completed. - **Task Deletion**: Delete tasks. For more information or support, visit the [Dne To-Do Help Center](https://help.dne-to-do.io/) or contact Dne To-Do support at [support@dne-to-do.io](mailto:support@dne-to-do.io)",
+    "app_version": "1.0.0",
+    "Updated_on": "2024-04-15",
+    "Required_Os": "Android 6.0> or iOS 12.0> or Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": true,
+      "purchase_range": "$0.99 - $99.99 per item"
+    },
+    "content_rating": "Rated for 12+",
+    "interactive_elements": "Users interact, Shares location, Digital purchases",
+    "released_on": "2024-02-20",
+    "developer": "Dne"
+  },
+  "app_tags": {
+    "tags": [
+      "Task Management",
+      "Productivity",
+      "To-Do List",
+      "Simple Interface"
+    ]
+  }
+}

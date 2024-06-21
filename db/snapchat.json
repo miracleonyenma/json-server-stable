@@ -6,6 +6,7 @@
   "in_app_purchase": true,
   "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715850378/snapchat_h7uu5i.webp",
   "rated_for": "12+",
+  "rating": 4.8,
   "pwa_url": "https://web.snapchat.com/",
   "manifest_url": "https://www.snapchat.com/manifest.json",
   "new_app_features": "### Latest Features\\n- Spotlight: Discover new short videos created by the Snapchat community.\\n- Snap Map: See what's happening around the world and find your friends on the map.\\n- AR Lenses: Try out new augmented reality lenses and filters daily.",

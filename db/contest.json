@@ -6,6 +6,7 @@
   "in_app_purchase": true,
   "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715959386/icon-512x512_v4cgmd.png",
   "rated_for": "12+",
+  "rating": 4.8,
   "pwa_url_download": "https://play.joincontest.app/download",
   "pwa_url": "https://play.joincontest.app/",
   "manifest_url": "https://play.joincontest.app/manifest.json",

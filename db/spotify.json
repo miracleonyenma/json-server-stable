@@ -6,6 +6,7 @@
   "in_app_purchase": true,
   "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715850378/spotify_nmxcba.webp",
   "rated_for": "12+",
+  "rating": 4.8,
   "pwa_url": "https://open.spotify.com/",
   "manifest_url": "https://open.spotify.com/manifest.json",
   "new_app_features": "### Latest Features\\n- Group Sessions: Listen together with friends in real-time.\\n- Enhanced Lyrics: Sing along with time-synced lyrics.\\n- Podcast Subscriptions: Support your favorite creators with exclusive content.",

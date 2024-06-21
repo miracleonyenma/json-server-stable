@@ -6,6 +6,7 @@
   "in_app_purchase": false,
   "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715847600/appstore/whatsapp_tpgjaq.webp",
   "rated_for": "3+",
+  "rating": 4.5,
   "pwa_url": "https://web.whatsapp.com/",
   "manifest_url": "https://www.whatsapp.com/manifest.json",
   "new_app_features": "### Latest Features\\n- New animated stickers for more expressive communication.\\n- QR codes to easily add new contacts.\\n- Dark mode for a better user experience in low light.\\n- Group video calls with up to 8 participants.",

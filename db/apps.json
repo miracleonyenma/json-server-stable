@@ -1,11 +1,27 @@
 [
   {
+    "id": "contest",
+    "title": "Contest",
+    "rate": 4.7,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1715959386/icon-512x512_v4cgmd.png",
+    "category": "entertainment",
+    "tags": ["entertainment", "shopping", "gaming"]
+  },
+  {
     "id": "100pay-app",
     "title": "100Pay App",
     "rate": 5.0,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1715524934/discord-logo_eqerbi.jpg",
     "category": "finance",
     "tags": ["finance", "shopping"]
+  },
+  {
+    "id": "arith",
+    "title": "Arith",
+    "rate": 4.0,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1719018256/appstore/Arith_yxkw9u.png",
+    "category": "utilities",
+    "tags": ["calculator", "math"]
   },
   {
     "id": "slugfi",
@@ -15,14 +31,7 @@
     "category": "utilities",
     "tags": ["productivity"]
   },
-  {
-    "id": "contest",
-    "title": "Contest",
-    "rate": 4.7,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1715959386/icon-512x512_v4cgmd.png",
-    "category": "entertainment",
-    "tags": ["entertainment", "shopping", "gaming"]
-  },
+
   {
     "id": "contest-web",
     "title": "Contest Explorer",

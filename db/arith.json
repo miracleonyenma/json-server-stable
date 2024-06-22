@@ -1,0 +1,68 @@
+{
+  "id": "arith",
+  "app_title": "Arith",
+  "short_app_title": "Arith",
+  "app_category": "utilities",
+  "in_app_purchase": true,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1719018256/appstore/Arith_yxkw9u.png",
+  "rated_for": "12+",
+  "rating": 4.0,
+  "pwa_url": "https://arith.netlify.app/",
+  "manifest_url": "https://arith.netlify.app/manifest.json",
+  "new_app_features": "- Simple and intuitive ratio and proportion calculator interface. - Basic calculation features. - Easy to use and accessible.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": true,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Email Address",
+          "reason": "To send you important updates and notifications."
+        },
+        {
+          "name": "Phone Number",
+          "reason": "To provide account security and send important notifications."
+        },
+        {
+          "name": "User ID",
+          "reason": "To uniquely identify your account and enable login."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Ratio Calculation",
+          "reason": "To perform ratio calculations."
+        },
+        {
+          "name": "Proportion Calculation",
+          "reason": "To perform proportion calculations."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "about_this_app": "# Arith Arith is a simple ratio and proportion calculator app designed for performing calculations. It offers basic features like ratio and proportion calculations. ## Key Features: - **Ratio Calculation**: Perform ratio calculations. - **Proportion Calculation**: Perform proportion calculations. For more information or support, visit the [Arith Help Center](https://help.arith.io/) or contact Arith support at [support@arith.io](mailto:support@arith.io)",
+    "app_version": "1.0.0",
+    "Updated_on": "2024-04-15",
+    "Required_Os": "Android 6.0> or iOS 12.0> or Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": true,
+      "purchase_range": "$0.99 - $99.99 per item"
+    },
+    "content_rating": "Rated for 12+",
+    "interactive_elements": "Users interact, Shares location, Digital purchases",
+    "released_on": "2024-02-20",
+    "developer": "Dne"
+  },
+  "app_tags": {
+    "tags": ["Calculator", "Ratio", "Proportion", "Simple Interface"]
+  }
+}

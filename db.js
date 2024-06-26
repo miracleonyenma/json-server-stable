@@ -1,5 +1,3 @@
-const appsRoute = require("./db/apps.json");
-const whatsappRoute = require("./db/whatsapp.json");
 const fs = require("fs");
 const path = require("path");
 

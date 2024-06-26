@@ -1,0 +1,72 @@
+{
+  "id": "100pay-dashboard",
+  "app_title": "100Pay Dashboard",
+  "short_app_title": "100Pay",
+  "app_category": "finance",
+  "in_app_purchase": false,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1719057534/appstore/paypayinsqr_wjkwtr.png",
+  "rated_for": "17+",
+  "rating": 5.0,
+  "pwa_url": "https://dashboard.100pay.co/",
+  "manifest_url": "https://dashboard.100pay.co/manifest.json",
+  "new_app_features": "- Simplified digital payments management. \n- Integrated invoicing and payouts. \n- Business analytics and reporting.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": true,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Email Address",
+          "reason": "To manage your account and provide support."
+        },
+        {
+          "name": "Phone Number",
+          "reason": "To provide account security and send important notifications."
+        },
+        {
+          "name": "Business Information",
+          "reason": "To set up and manage your business account."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Payments",
+          "reason": "To process and track your digital payments."
+        },
+        {
+          "name": "Payouts",
+          "reason": "To manage and track your business payouts."
+        },
+        {
+          "name": "Transactions",
+          "reason": "To provide detailed transaction history and reporting."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "about_this_app": "# 100Pay 100Pay is a comprehensive digital payments platform that simplifies financial management for businesses. It offers features like invoicing, payouts, and detailed business analytics. ## Key Features: - **Payments**: Easily accept and manage digital payments. - **Payouts**: Streamline your business payouts. - **Transactions**: View detailed transaction history and reports. - **Invoicing**: Create and manage invoices for your customers. For more information or support, visit the [100Pay Help Center](https://help.100pay.co/) or contact 100Pay support at [support@100pay.co](mailto:support@100pay.co)",
+    "app_version": "2.0.0",
+    "Updated_on": "2024-04-15",
+    "Required_Os": "Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": false,
+      "purchase_range": "N/A"
+    },
+    "content_rating": "Rated for 17+",
+    "interactive_elements": "Users interact, Shares location, Digital purchases",
+    "released_on": "2022-06-01",
+    "developer": "100Pay, Inc."
+  },
+  "app_tags": {
+    "tags": ["Finance", "Payments", "Invoicing", "Business Tools", "Analytics"]
+  }
+}

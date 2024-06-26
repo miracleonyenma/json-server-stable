@@ -16,6 +16,14 @@
     "tags": ["finance", "shopping"]
   },
   {
+    "id": "100pay-dashboard",
+    "title": "100Pay Dashboard",
+    "rate": 5.0,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1719057534/appstore/paypayinsqr_wjkwtr.png",
+    "category": "finance",
+    "tags": ["finance", "payments", "invoicing", "business tools"]
+  },
+  {
     "id": "arith",
     "title": "Arith",
     "rate": 4.0,
@@ -39,62 +47,6 @@
     "image": "https://res.cloudinary.com/alphas/image/upload/v1718933341/appstore/Contest_v_xqxh9s.png",
     "category": "entertainment",
     "tags": ["entertainment", "shopping", "gaming"]
-  },
-  {
-    "id": "facebook",
-    "title": "Facebook",
-    "rate": 3.4,
-    "image": "/facebook.webp",
-    "category": "social",
-    "tags": ["social networking", "shopping"]
-  },
-  {
-    "id": "pinterest",
-    "title": "Pinterest",
-    "rate": 3.4,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1715850374/pinterest_ku7xbp.webp",
-    "category": "shopping",
-    "tags": ["social networking", "shopping"]
-  },
-  {
-    "id": "snapchat",
-    "title": "Snapchat",
-    "rate": 3.4,
-    "image": "/snapchat.webp",
-    "category": "social",
-    "tags": ["social networking", "shopping"]
-  },
-  {
-    "id": "tiktok",
-    "title": "TikTok",
-    "rate": 3.4,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1715847599/appstore/tiktok_obes7g.webp",
-    "category": "social",
-    "tags": ["social networking", "shopping"]
-  },
-  {
-    "id": "x",
-    "title": "X",
-    "rate": 3.4,
-    "image": "/images/app-icons/x.webp",
-    "category": "social",
-    "tags": ["social networking", "shopping"]
-  },
-  {
-    "id": "whatsapp",
-    "title": "WhatsApp",
-    "rate": 3.4,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1715850380/whatsapp_jzpki8.png",
-    "category": "social",
-    "tags": ["social networking", "shopping"]
-  },
-  {
-    "id": "youtube",
-    "title": "YouTube",
-    "rate": 3.4,
-    "image": "/images/app-icons/youtube-logo.webp",
-    "category": "video",
-    "tags": ["entertainment", "video"]
   },
   {
     "id": "nottes",

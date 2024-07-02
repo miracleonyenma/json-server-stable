@@ -8,14 +8,6 @@
     "tags": ["entertainment", "shopping", "gaming"]
   },
   {
-    "id": "100pay-app",
-    "title": "100Pay App",
-    "rate": 5.0,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1715524934/discord-logo_eqerbi.jpg",
-    "category": "finance",
-    "tags": ["finance", "shopping"]
-  },
-  {
     "id": "100pay-dashboard",
     "title": "100Pay Dashboard",
     "rate": 5.0,

@@ -1,0 +1,106 @@
+{
+  "id": "vtbill",
+  "app_title": "VTBill",
+  "short_app_title": "VTBill",
+  "app_category": "finance",
+  "in_app_purchase": false,
+  "app_icon": "https://app.vtbill.com/vt_192.png",
+  "rated_for": "17+",
+  "rating": 4.7,
+  "pwa_url_download": "https://app.vtbill.com/download",
+  "pwa_url": "https://app.vtbill.com/",
+  "manifest_url": "https://app.vtbill.com/manifest.json",
+  "new_app_features": "Improved bill management and payment tracking. Enhanced security features to protect user data. Streamlined user interface for a more intuitive experience.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": false,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Full Name",
+          "reason": "To identify and authenticate users."
+        },
+        {
+          "name": "Email Address",
+          "reason": "To send billing notifications and updates."
+        },
+        {
+          "name": "Phone Number",
+          "reason": "To verify user identity and provide customer support."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Bill Payment History",
+          "reason": "To track user payment activities and provide financial insights."
+        },
+        {
+          "name": "User Interactions",
+          "reason": "To improve the app's user experience and functionality."
+        },
+        {
+          "name": "Device Information",
+          "reason": "To optimize app performance and ensure compatibility."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "description": "VTBill is a comprehensive personal finance management app that helps users stay on top of their bills, track expenses, and make timely payments.",
+    "about_this_app": "VTBill is a comprehensive personal finance management app that helps users stay on top of their bills, track expenses, and make timely payments. It offers a range of features designed to simplify financial organization and provide valuable insights.\n\nKey Features:\n- **Bill Management**: Easily add, track, and pay your bills from a single platform.\n- **Expense Tracking**: Monitor your spending habits and categorize expenses for better financial control.\n- **Payment Reminders**: Get timely notifications to ensure you never miss a bill due date.\n- **Financial Insights**: Analyze your spending patterns and identify areas for improvement.\n- **Secure Data Storage**: Protect your sensitive financial information with robust security measures.\n\nFor more information or support, visit the [VTBill Help Center](https://app.vtbill.com/help) or contact VTBill support at [support@vtbill.com](mailto:support@vtbill.com).",
+    "app_version": "3.0.0",
+    "updated_on": "2024-07-01",
+    "required_os": "Android 6.0+, iOS 12.0+, or Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": false,
+      "purchase_range": "N/A"
+    },
+    "content_rating": "Rated for 17+",
+    "interactive_elements": "Users interact, Digital purchases",
+    "released_on": "2022-09-15",
+    "developer": "VTBill Inc."
+  },
+  "app_tags": {
+    "tags": [
+      "Personal Finance",
+      "Bill Management",
+      "Expense Tracking",
+      "Financial Planning",
+      "Payments"
+    ]
+  },
+  "support": [
+    {
+      "id": "website",
+      "name": "Website",
+      "value": "VTBill Help Center",
+      "url": "https://app.vtbill.com/help"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "value": "VTBill Support Email",
+      "url": "mailto:support@vtbill.com"
+    },
+    {
+      "id": "address",
+      "name": "Address",
+      "value": "321 VTBill Blvd, Finance City, FC 54321",
+      "url": "https://goo.gl/maps/VTBillHQ"
+    },
+    {
+      "id": "privacy_policy",
+      "name": "Privacy Policy",
+      "value": "VTBill Privacy Policy",
+      "url": "https://app.vtbill.com/privacy"
+    }
+  ]
+}

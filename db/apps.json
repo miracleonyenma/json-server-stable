@@ -55,5 +55,21 @@
     "image": "https://res.cloudinary.com/alphas/image/upload/v1719001317/appstore/dne_kehmcf.png",
     "category": "productivity",
     "tags": ["productivity", "task management"]
+  },
+  {
+    "id": "cloudnotte",
+    "title": "Cloudnotte",
+    "rate": 4.9,
+    "image": "https://cloudnotte.com/android-chrome-192x192.png",
+    "category": "education",
+    "tags": ["school management", "online learning", "student tracking"]
+  },
+  {
+    "id": "vtbill",
+    "title": "VTBill",
+    "rate": 4.7,
+    "image": "https://app.vtbill.com/vt_192.png",
+    "category": "finance",
+    "tags": ["finance", "payments", "invoicing", "business tools"]
   }
 ]

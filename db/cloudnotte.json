@@ -1,0 +1,106 @@
+{
+  "id": "cloudnotte",
+  "app_title": "Cloudnotte",
+  "short_app_title": "Cloudnotte",
+  "app_category": "education",
+  "in_app_purchase": false,
+  "app_icon": "https://cloudnotte.com/android-chrome-192x192.png",
+  "rated_for": "4+",
+  "rating": 4.9,
+  "pwa_url_download": "https://app.cloudnotte.com/download",
+  "pwa_url": "https://app.cloudnotte.com/",
+  "manifest_url": "https://app.cloudnotte.com/manifest.json",
+  "new_app_features": "Improved student tracking and performance analytics. Enhanced online learning tools for better engagement. Streamlined school management features for administrators.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": false,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Student Name",
+          "reason": "To identify and track student progress."
+        },
+        {
+          "name": "Student Email",
+          "reason": "To communicate with students and send notifications."
+        },
+        {
+          "name": "Parent Contact Information",
+          "reason": "To involve parents in their child's education and share updates."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Student Attendance",
+          "reason": "To monitor student participation and engagement."
+        },
+        {
+          "name": "Assignment Submissions",
+          "reason": "To track student progress and provide feedback."
+        },
+        {
+          "name": "Online Class Participation",
+          "reason": "To analyze student performance and identify areas for improvement."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "description": "Cloudnotte is a comprehensive school management and online learning platform that empowers educators, administrators, and students to collaborate effectively and track academic progress.",
+    "about_this_app": "Cloudnotte is a comprehensive school management and online learning platform that empowers educators, administrators, and students to collaborate effectively and track academic progress. It offers a wide range of features designed to streamline school operations, enhance student engagement, and foster a positive learning environment.\n\nKey Features:\n- **School Management**: Manage student records, attendance, and schedules efficiently.\n- **Online Learning**: Conduct interactive online classes, assign homework, and track student progress.\n- **Student Tracking**: Monitor individual student performance and identify areas for improvement.\n- **Parent Involvement**: Keep parents informed about their child's academic journey.\n- **Secure Data Storage**: Ensure the privacy and security of sensitive student and school data.\n\nFor more information or support, visit the [Cloudnotte Help Center](https://app.cloudnotte.com/help) or contact Cloudnotte support at [support@cloudnotte.com](mailto:support@cloudnotte.com).",
+    "app_version": "2.0.0",
+    "updated_on": "2024-06-30",
+    "required_os": "Android 6.0+, iOS 12.0+, or Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": false,
+      "purchase_range": "N/A"
+    },
+    "content_rating": "Rated for 4+",
+    "interactive_elements": "Users interact, Digital purchases",
+    "released_on": "2023-09-01",
+    "developer": "Cloudnotte Inc."
+  },
+  "app_tags": {
+    "tags": [
+      "School Management",
+      "Online Learning",
+      "Student Tracking",
+      "Education",
+      "Collaboration"
+    ]
+  },
+  "support": [
+    {
+      "id": "website",
+      "name": "Website",
+      "value": "Cloudnotte Help Center",
+      "url": "https://app.cloudnotte.com/help"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "value": "Cloudnotte Support Email",
+      "url": "mailto:support@cloudnotte.com"
+    },
+    {
+      "id": "address",
+      "name": "Address",
+      "value": "789 Cloudnotte Ave, Edutopia, ED 12345",
+      "url": "https://goo.gl/maps/CloudnotteHQ"
+    },
+    {
+      "id": "privacy_policy",
+      "name": "Privacy Policy",
+      "value": "Cloudnotte Privacy Policy",
+      "url": "https://app.cloudnotte.com/privacy"
+    }
+  ]
+}

@@ -8,7 +8,7 @@
     "tags": ["entertainment", "shopping", "gaming"]
   },
   {
-    "id": "100pay-dashboard",
+    "id": "100pay",
     "title": "100Pay Dashboard",
     "rate": 5.0,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1719057534/appstore/paypayinsqr_wjkwtr.png",
@@ -33,7 +33,7 @@
   },
 
   {
-    "id": "contest-web",
+    "id": "contest-explorer",
     "title": "Contest Explorer",
     "rate": 4.7,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1720458739/appstore/Contest_Explorer_rq65yn.png",

@@ -1,7 +1,7 @@
 [
   {
     "id": "100pay",
-    "title": "100Pay Dashboard",
+    "title": "100Pay App",
     "rate": 5.0,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1719057534/appstore/paypayinsqr_wjkwtr.png",
     "category": "finance",
@@ -9,7 +9,7 @@
   },
   {
     "id": "contest",
-    "title": "Contest",
+    "title": "Contest App",
     "rate": 4.7,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1715959386/icon-512x512_v4cgmd.png",
     "category": "shopping",

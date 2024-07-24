@@ -1,0 +1,100 @@
+{
+  "id": "contest-store",
+  "app_title": "Contest Store",
+  "short_app_title": "Contest Store",
+  "app_category": "shopping",
+  "in_app_purchase": true,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1721851075/contest/Contest_Store_fronnt.png",
+  "rated_for": "12+",
+  "rating": 4.7,
+  "pwa_url_download": "https://joincontest.store/",
+  "pwa_url": "https://joincontest.store/",
+  "manifest_url": "https://joincontest.store/manifest.json",
+  "new_app_features": "Discover new contests with high-quality products. Improved user interface for a smoother experience. Enhanced security features to protect user data.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": false,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Email Address",
+          "reason": "To notify users about contest results and updates."
+        },
+        {
+          "name": "Phone Number",
+          "reason": "To verify user identity and send notifications."
+        },
+        {
+          "name": "Shipping Address",
+          "reason": "To deliver prizes to winners."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Contest Participation",
+          "reason": "To track user participation and reward distribution."
+        },
+        {
+          "name": "User Interactions",
+          "reason": "To improve user experience and app functionality."
+        },
+        {
+          "name": "Device Information",
+          "reason": "To optimize app performance and ensure compatibility."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "description": "Contest Store allows users to participate in various contests to win high-quality products. The platform ensures a seamless and rewarding experience for all users.",
+    "about_this_app": "Contest Store allows users to participate in various contests to win high-quality products. The platform ensures a seamless and rewarding experience for all users. \n  Key Features: \n - **Participate in Contests**: Join contests to win top-quality products. \n - **User-Friendly Interface**: Enjoy a smooth and engaging user experience. \n - **Secure Transactions**: Enhanced security features to protect user data and ensure safe transactions. \n For more information or support, visit the [Contest Store Help Center](https://joincontest.store/help) or contact Contest Store support at [support@joincontest.com](mailto:support@joincontest.com).",
+    "app_version": "1.0.0",
+    "updated_on": "2024-07-24",
+    "required_os": "Android 6.0> or iOS 12.0> or Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": true,
+      "purchase_range": "$0.99 - $49.99 per item"
+    },
+    "content_rating": "Rated for 12+",
+    "interactive_elements": "Users interact, Digital purchases",
+    "released_on": "2024-07-24",
+    "developer": "Contest Inc."
+  },
+  "app_tags": {
+    "tags": ["Shopping", "Contests", "Play-to-Earn", "Rewards", "Discounts"]
+  },
+  "support": [
+    {
+      "id": "website",
+      "name": "Website",
+      "value": "Contest Store Help Center",
+      "url": "https://joincontest.store/help"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "value": "Contest Store Support Email",
+      "url": "mailto:support@joincontest.com"
+    },
+    {
+      "id": "address",
+      "name": "Address",
+      "value": "789 Contest St, Win City, WC 65432",
+      "url": "https://goo.gl/maps/ContestStoreHQ"
+    },
+    {
+      "id": "privacy_policy",
+      "name": "Privacy Policy",
+      "value": "Contest Store Privacy Policy",
+      "url": "https://joincontest.store/privacy"
+    }
+  ]
+}

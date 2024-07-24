@@ -1,19 +1,43 @@
 [
   {
-    "id": "contest",
-    "title": "Contest",
-    "rate": 4.7,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1715959386/icon-512x512_v4cgmd.png",
-    "category": "entertainment",
-    "tags": ["entertainment", "shopping", "gaming"]
-  },
-  {
     "id": "100pay",
     "title": "100Pay Dashboard",
     "rate": 5.0,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1719057534/appstore/paypayinsqr_wjkwtr.png",
     "category": "finance",
     "tags": ["finance", "payments", "invoicing", "business tools"]
+  },
+  {
+    "id": "contest",
+    "title": "Contest",
+    "rate": 4.7,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1715959386/icon-512x512_v4cgmd.png",
+    "category": "shopping",
+    "tags": ["entertainment", "shopping", "gaming"]
+  },
+  {
+    "id": "contest-explorer",
+    "title": "Contest Explorer",
+    "rate": 4.7,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1720458739/appstore/Contest_Explorer_rq65yn.png",
+    "category": "shopping",
+    "tags": ["entertainment", "shopping", "gaming"]
+  },
+  {
+    "id": "contest-store",
+    "title": "Contest Store",
+    "rate": 4.7,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1721851075/contest/Contest_Store_fronnt.png",
+    "category": "shopping",
+    "tags": ["shopping"]
+  },
+  {
+    "id": "shop100-checkout",
+    "title": "Shop100 Checkout",
+    "rate": 5.0,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1721857350/contest/Shop100_Checkout_eguvk8.png",
+    "category": "shopping",
+    "tags": ["shopping", "order management", "centralized orders"]
   },
   {
     "id": "arith",
@@ -30,15 +54,6 @@
     "image": "https://res.cloudinary.com/alphas/image/upload/v1715907966/icon-512x512_mmhomx.png",
     "category": "utilities",
     "tags": ["productivity"]
-  },
-
-  {
-    "id": "contest-explorer",
-    "title": "Contest Explorer",
-    "rate": 4.7,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1720458739/appstore/Contest_Explorer_rq65yn.png",
-    "category": "entertainment",
-    "tags": ["entertainment", "shopping", "gaming"]
   },
   {
     "id": "nottes",

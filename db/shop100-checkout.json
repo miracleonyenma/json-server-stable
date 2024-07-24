@@ -1,0 +1,100 @@
+{
+  "id": "shop100-checkout",
+  "app_title": "Shop100 Checkout",
+  "short_app_title": "Checkout",
+  "app_category": "shopping",
+  "in_app_purchase": false,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1721686677/contest/Frame_1171275879_imnlj6.png",
+  "rated_for": "12+",
+  "rating": 5.0,
+  "pwa_url_download": "https://checkout.shop100.store/",
+  "pwa_url": "https://checkout.shop100.store/",
+  "manifest_url": "https://checkout.shop100.store/manifest.json",
+  "new_app_features": "Centralized order management from multiple Shop100 store fronts. Enhanced user interface for seamless order tracking. Improved security features to protect user data.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": false,
+    "is_data_collected": true,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Email Address",
+          "reason": "To notify users about order updates and confirmations."
+        },
+        {
+          "name": "Phone Number",
+          "reason": "To verify user identity and send notifications."
+        },
+        {
+          "name": "Shipping Address",
+          "reason": "To ensure accurate delivery of orders."
+        }
+      ]
+    },
+    "app_activity": {
+      "collect": true,
+      "data": [
+        {
+          "name": "Order History",
+          "reason": "To track user orders and provide order history."
+        },
+        {
+          "name": "User Interactions",
+          "reason": "To improve user experience and app functionality."
+        },
+        {
+          "name": "Device Information",
+          "reason": "To optimize app performance and ensure compatibility."
+        }
+      ]
+    }
+  },
+  "application_information": {
+    "description": "checkout.shop100.store is a platform that allows customers to manage all their orders from merchants' store fronts that are powered by Shop100. Customers can have a centralized point of access to orders they created across multiple store fronts on Shop100.",
+    "about_this_app": "checkout.shop100.store is a platform that allows customers to manage all their orders from merchants' store fronts that are powered by Shop100. Customers can have a centralized point of access to orders they created across multiple store fronts on Shop100. \n  Key Features: \n - **Centralized Order Management**: Manage orders from multiple Shop100 store fronts in one place. \n - **Enhanced User Interface**: Enjoy a seamless and engaging user experience. \n - **Secure Transactions**: Improved security features to protect user data and ensure safe transactions. \n For more information or support, visit the [Shop100 Help Center](https://checkout.shop100.store/help) or contact Shop100 support at [support@shop100.com](mailto:support@shop100.com).",
+    "app_version": "1.0.0",
+    "updated_on": "2024-07-24",
+    "required_os": "Android 6.0> or iOS 12.0> or Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": false,
+      "purchase_range": ""
+    },
+    "content_rating": "Rated for 12+",
+    "interactive_elements": "Users interact, Digital purchases",
+    "released_on": "2024-07-24",
+    "developer": "Shop100 Inc."
+  },
+  "app_tags": {
+    "tags": ["Shopping", "Order Management", "Centralized Orders"]
+  },
+  "support": [
+    {
+      "id": "website",
+      "name": "Website",
+      "value": "Shop100 Help Center",
+      "url": "https://checkout.shop100.store/help"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "value": "Shop100 Support Email",
+      "url": "mailto:support@shop100.com"
+    },
+    {
+      "id": "address",
+      "name": "Address",
+      "value": "123 Shop St, Commerce City, CC 12345",
+      "url": "https://goo.gl/maps/Shop100HQ"
+    },
+    {
+      "id": "privacy_policy",
+      "name": "Privacy Policy",
+      "value": "Shop100 Privacy Policy",
+      "url": "https://checkout.shop100.store/privacy"
+    }
+  ]
+}

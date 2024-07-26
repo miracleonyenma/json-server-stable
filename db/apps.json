@@ -33,11 +33,19 @@
   },
   {
     "id": "shop100-checkout",
-    "title": "Shop100 Checkout",
+    "title": "Checkout",
     "rate": 5.0,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1721857350/contest/Shop100_Checkout_eguvk8.png",
     "category": "shopping",
     "tags": ["shopping", "order management", "centralized orders"]
+  },
+  {
+    "id": "shop100-merchant",
+    "title": "Merchant",
+    "rate": 4.2,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1721953144/contest/Shop100_Merchant_vbxvex.png",
+    "category": "business",
+    "tags": ["business", "ecommerce", "order management", "centralized orders"]
   },
   {
     "id": "arith",

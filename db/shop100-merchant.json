@@ -7,9 +7,9 @@
   "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1721953144/contest/Shop100_Merchant_vbxvex.png",
   "rated_for": "12+",
   "rating": 5.0,
-  "pwa_url_download": "https://merchant.shop100.store/",
-  "pwa_url": "https://merchant.shop100.store/",
-  "manifest_url": "https://merchant.shop100.store/manifest.json",
+  "pwa_url_download": "https://merchant.shop100.co/",
+  "pwa_url": "https://merchant.shop100.co/",
+  "manifest_url": "https://merchant.shop100.co/manifest.json",
   "new_app_features": "Create and manage your stores easily. Improved user interface for a smoother experience. Enhanced security features to protect merchant data.",
   "privacy_policy": {
     "is_data_shared_with_third_party": false,

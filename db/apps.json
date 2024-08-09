@@ -5,7 +5,8 @@
     "rate": 5.0,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1719057534/appstore/paypayinsqr_wjkwtr.png",
     "category": "finance",
-    "tags": ["finance", "payments", "invoicing", "business tools"]
+    "tags": ["finance", "payments", "invoicing", "business tools"],
+    "url": "https://dashboard.100pay.co/"
   },
   {
     "id": "contest",
@@ -13,7 +14,8 @@
     "rate": 4.7,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1715959386/icon-512x512_v4cgmd.png",
     "category": "shopping",
-    "tags": ["entertainment", "shopping", "gaming"]
+    "tags": ["entertainment", "shopping", "gaming"],
+    "url": "https://play.joincontest.app/"
   },
   {
     "id": "contest-explorer",
@@ -21,7 +23,8 @@
     "rate": 4.7,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1723053038/appstore/explorer_zqct75.png",
     "category": "shopping",
-    "tags": ["entertainment", "shopping", "gaming"]
+    "tags": ["entertainment", "shopping", "gaming"],
+    "url": "https://joincontest.app/"
   },
   {
     "id": "contest-store",
@@ -29,7 +32,8 @@
     "rate": 4.7,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1721859207/contest/Contest_Store_zokbwm.png",
     "category": "shopping",
-    "tags": ["shopping"]
+    "tags": ["shopping"],
+    "url": "https://joincontest.store/"
   },
   {
     "id": "shop100-checkout",
@@ -37,7 +41,8 @@
     "rate": 5.0,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1721857350/contest/Shop100_Checkout_eguvk8.png",
     "category": "shopping",
-    "tags": ["shopping", "order management", "centralized orders"]
+    "tags": ["shopping", "order management", "centralized orders"],
+    "url": ""
   },
   {
     "id": "shop100-merchant",
@@ -45,7 +50,8 @@
     "rate": 4.2,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1721953144/contest/Shop100_Merchant_vbxvex.png",
     "category": "business",
-    "tags": ["business", "ecommerce", "order management", "centralized orders"]
+    "tags": ["business", "ecommerce", "order management", "centralized orders"],
+    "url": "https://checkout.shop100.store/"
   },
   {
     "id": "arith",
@@ -53,7 +59,8 @@
     "rate": 4.0,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1719018256/appstore/Arith_yxkw9u.png",
     "category": "utilities",
-    "tags": ["calculator", "math"]
+    "tags": ["calculator", "math"],
+    "url": "https://arith.netlify.app/"
   },
   {
     "id": "slugfi",
@@ -61,7 +68,8 @@
     "rate": 4.8,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1715907966/icon-512x512_mmhomx.png",
     "category": "utilities",
-    "tags": ["productivity"]
+    "tags": ["productivity"],
+    "url": "https://slugfi.miracleio.me/"
   },
   {
     "id": "nottes",
@@ -69,7 +77,8 @@
     "rate": 4.8,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1719000810/appstore/Nottes_App_tlkmr2.png",
     "category": "productivity",
-    "tags": ["productivity", "organization"]
+    "tags": ["productivity", "organization"],
+    "url": "https://nottes.miracleio.me/"
   },
   {
     "id": "to-do-vue",
@@ -77,7 +86,8 @@
     "rate": 4.0,
     "image": "https://res.cloudinary.com/alphas/image/upload/v1719001317/appstore/dne_kehmcf.png",
     "category": "productivity",
-    "tags": ["productivity", "task management"]
+    "tags": ["productivity", "task management"],
+    "url": "https://to-do-vue.netlify.app/"
   },
   {
     "id": "cloudnotte",
@@ -85,7 +95,8 @@
     "rate": 4.9,
     "image": "https://cloudnotte.com/android-chrome-192x192.png",
     "category": "education",
-    "tags": ["school management", "online learning", "student tracking"]
+    "tags": ["school management", "online learning", "student tracking"],
+    "url": "https://app.cloudnotte.com/"
   },
   {
     "id": "vtbill",
@@ -93,6 +104,7 @@
     "rate": 4.7,
     "image": "https://app.vtbill.com/vt_192.png",
     "category": "finance",
-    "tags": ["finance", "payments", "invoicing", "business tools"]
+    "tags": ["finance", "payments", "invoicing", "business tools"],
+    "url": "https://app.vtbill.com/"
   }
 ]

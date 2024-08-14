@@ -106,5 +106,14 @@
     "category": "finance",
     "tags": ["finance", "payments", "invoicing", "business tools"],
     "url": "https://app.vtbill.com/"
+  },
+  {
+    "id": "clnk",
+    "title": "Clnk",
+    "rate": 4.5,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1723571495/clnk/clnk-icon_2x_qdqhjl.png",
+    "category": "utilities",
+    "tags": ["url shortener", "qr codes", "sharing", "analytics"],
+    "url": "https://clnk.netlify.app/"
   }
 ]

@@ -7,8 +7,8 @@
   "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1719000810/appstore/Nottes_App_tlkmr2.png",
   "rated_for": "6+",
   "rating": 5,
-  "pwa_url": "https://nottes.miracleio.me/",
-  "manifest_url": "https://nottes.miracleio.me/manifest.json",
+  "pwa_url": "https://nottes.m10.live/",
+  "manifest_url": "https://nottes.m10.live/manifest.json",
   "new_app_features": "- Enhanced note organization using folders and hashtags. - Secure note-locking with Face ID or Touch ID. - Seamless syncing and sharing of notes across devices. ",
   "privacy_policy": {
     "is_data_shared_with_third_party": true,

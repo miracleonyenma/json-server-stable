@@ -7,8 +7,8 @@
   "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1715907966/icon-512x512_mmhomx.png",
   "rated_for": "12+",
   "rating": 4.8,
-  "pwa_url": "https://slugfi.miracleio.me/",
-  "manifest_url": "https://slugfi.miracleio.me/manifest.json",
+  "pwa_url": "https://slugfi.m10.live/",
+  "manifest_url": "https://slugfi.m10.live/manifest.json",
   "new_app_features": "### Latest Features\\n- New customizable options for slug generation.\\n- Enhanced performance and faster slug generation.",
   "privacy_policy": {
     "is_data_shared_with_third_party": false,
@@ -28,7 +28,7 @@
   },
   "application_information": {
     "description": "Generate URL friendly slugs with Slugfi. Slugfi is a free tool that helps you generate URL friendly slugs for your blog posts, articles, and other content.",
-    "about_this_app": "# Slugfi\\n\\nGenerate URL friendly slugs with Slugfi. Slugfi is a free tool that helps you generate URL friendly slugs for your blog posts, articles, and other content.\\n\\n## Key Features:\\n\\n- **Slug Generation**: Easily generate URL friendly slugs for any content.\\n\\n- **Customizable Options**: Customize slug generation with various options to suit your needs.\\n\\n- **Free Tool**: Use Slugfi for free to enhance your content's URL structure.\\n\\nFor more information or support, visit the [Slugfi Help Center](https://slugfi.miracleio.me/help) or contact Slugfi support at [support@slugfi.miracleio.me](mailto:support@slugfi.miracleio.me).",
+    "about_this_app": "# Slugfi\\n\\nGenerate URL friendly slugs with Slugfi. Slugfi is a free tool that helps you generate URL friendly slugs for your blog posts, articles, and other content.\\n\\n## Key Features:\\n\\n- **Slug Generation**: Easily generate URL friendly slugs for any content.\\n\\n- **Customizable Options**: Customize slug generation with various options to suit your needs.\\n\\n- **Free Tool**: Use Slugfi for free to enhance your content's URL structure.\\n\\nFor more information or support, visit the [Slugfi Help Center](https://slugfi.m10.live/help) or contact Slugfi support at [support@slugfi.m10.live](mailto:support@slugfi.m10.live).",
     "app_version": "1.0.0",
     "updated_on": "2024-05-16",
     "required_os": "Web Browser",
@@ -49,13 +49,13 @@
       "id": "website",
       "name": "Website",
       "value": "Slugfi Help Center",
-      "url": "https://slugfi.miracleio.me/help"
+      "url": "https://slugfi.m10.live/help"
     },
     {
       "id": "email",
       "name": "Email",
       "value": "Slugfi Support Email",
-      "url": "mailto:support@slugfi.miracleio.me"
+      "url": "mailto:support@slugfi.m10.live"
     },
     {
       "id": "address",
@@ -67,7 +67,7 @@
       "id": "privacy_policy",
       "name": "Privacy Policy",
       "value": "Slugfi Privacy Policy",
-      "url": "https://slugfi.miracleio.me/privacy"
+      "url": "https://slugfi.m10.live/privacy"
     }
   ]
 }

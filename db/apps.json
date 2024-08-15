@@ -69,7 +69,7 @@
     "image": "https://res.cloudinary.com/alphas/image/upload/v1715907966/icon-512x512_mmhomx.png",
     "category": "utilities",
     "tags": ["productivity"],
-    "url": "https://slugfi.miracleio.me/"
+    "url": "https://slugfi.m10.live/"
   },
   {
     "id": "nottes",
@@ -78,7 +78,7 @@
     "image": "https://res.cloudinary.com/alphas/image/upload/v1719000810/appstore/Nottes_App_tlkmr2.png",
     "category": "productivity",
     "tags": ["productivity", "organization"],
-    "url": "https://nottes.miracleio.me/"
+    "url": "https://nottes.m10.live/"
   },
   {
     "id": "to-do-vue",

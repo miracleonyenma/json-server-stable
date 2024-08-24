@@ -7,9 +7,9 @@
   "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1723571495/clnk/clnk-icon_2x_qdqhjl.png",
   "rated_for": "4+",
   "rating": 4.5,
-  "pwa_url_download": "https://clnk.netlify.app/download",
-  "pwa_url": "https://clnk.netlify.app/",
-  "manifest_url": "https://clnk.netlify.app/manifest.json",
+  "pwa_url_download": "https://clnk.m10.live/download",
+  "pwa_url": "https://clnk.m10.live/",
+  "manifest_url": "https://clnk.m10.live/manifest.json",
   "new_app_features": "Generate QR codes for shortened URLs. Improved user interface for easier access to features. Enhanced analytics to track link performance.",
   "privacy_policy": {
     "is_data_shared_with_third_party": false,
@@ -47,7 +47,7 @@
   },
   "application_information": {
     "description": "Clnk is a simple and efficient URL shortener that allows users to create short links and generate QR codes for easy sharing.",
-    "about_this_app": "Clnk is a simple and efficient URL shortener that allows users to create short links and generate QR codes for easy sharing. With Clnk, you can quickly shorten long URLs and create QR codes that can be scanned and shared easily.\n\nKey Features:\n- **URL Shortening**: Convert long URLs into short, manageable links.\n- **QR Code Generation**: Create QR codes for your shortened URLs for easy access.\n- **Link Tracking**: Monitor the performance of your shortened links with analytics.\n- **User-Friendly Interface**: Enjoy a seamless experience with an intuitive design.\n- **Secure Data Handling**: Your data is encrypted and kept safe.\n\nFor more information or support, visit the [Clnk Help Center](https://clnk.netlify.app/help) or contact Clnk support at [support@clnk.netlify.app](mailto:support@clnk.netlify.app).",
+    "about_this_app": "Clnk is a simple and efficient URL shortener that allows users to create short links and generate QR codes for easy sharing. With Clnk, you can quickly shorten long URLs and create QR codes that can be scanned and shared easily.\n\nKey Features:\n- **URL Shortening**: Convert long URLs into short, manageable links.\n- **QR Code Generation**: Create QR codes for your shortened URLs for easy access.\n- **Link Tracking**: Monitor the performance of your shortened links with analytics.\n- **User-Friendly Interface**: Enjoy a seamless experience with an intuitive design.\n- **Secure Data Handling**: Your data is encrypted and kept safe.\n\nFor more information or support, visit the [Clnk Help Center](https://clnk.m10.live/help) or contact Clnk support at [support@clnk.m10.live](mailto:support@clnk.m10.live).",
     "app_version": "1.0.0",
     "updated_on": "2024-08-14",
     "required_os": "Web Browser",
@@ -68,13 +68,13 @@
       "id": "website",
       "name": "Website",
       "value": "Clnk Help Center",
-      "url": "https://clnk.netlify.app/help"
+      "url": "https://clnk.m10.live/help"
     },
     {
       "id": "email",
       "name": "Email",
       "value": "Clnk Support Email",
-      "url": "mailto:support@clnk.netlify.app"
+      "url": "mailto:support@clnk.m10.live"
     },
     {
       "id": "address",
@@ -86,7 +86,7 @@
       "id": "privacy_policy",
       "name": "Privacy Policy",
       "value": "Clnk Privacy Policy",
-      "url": "https://clnk.netlify.app/privacy"
+      "url": "https://clnk.m10.live/privacy"
     }
   ]
 }

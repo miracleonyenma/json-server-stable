@@ -115,5 +115,14 @@
     "category": "utilities",
     "tags": ["url shortener", "qr codes", "sharing", "analytics"],
     "url": "https://clnk.m10.live/"
+  },
+  {
+    "id": "retrocket",
+    "title": "Retrocket",
+    "rate": 4.6,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1715907966/icon-512x512_mmhomx.png",
+    "category": "games",
+    "tags": ["games", "retro", "rocket", "action", "high score"],
+    "url": "https://retrocket.m10.live/"
   }
 ]

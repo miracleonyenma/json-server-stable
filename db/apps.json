@@ -124,5 +124,14 @@
     "category": "games",
     "tags": ["games", "retro", "rocket", "action", "high score"],
     "url": "https://retrocket.m10.live/"
+  },
+  {
+    "id": "nanotime",
+    "title": "NanoTime",
+    "rate": 4.5,
+    "image": "https://res.cloudinary.com/alphas/image/upload/v1725154543/appstore/nanotime_bcxwar.png",
+    "category": "utilities",
+    "tags": ["utilities", "clock", "digital", "time", "simple"],
+    "url": "https://nanotime.m10.live/"
   }
 ]

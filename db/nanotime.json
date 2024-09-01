@@ -1,0 +1,73 @@
+{
+  "id": "nanotime",
+  "app_title": "NanoTime",
+  "short_app_title": "NanoTime",
+  "app_category": "utilities",
+  "in_app_purchase": false,
+  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1725154543/appstore/nanotime_bcxwar.png",
+  "rated_for": "4+",
+  "rating": 4.5,
+  "pwa_url": "https://nanotime.m10.live/",
+  "manifest_url": "https://nanotime.m10.live/manifest.json",
+  "new_app_features": "### Latest Features\\n- Enhanced display options for better readability.\\n- Customizable themes for a personalized look.",
+  "privacy_policy": {
+    "is_data_shared_with_third_party": false,
+    "is_data_collected": false,
+    "is_data_encrypted": true,
+    "is_data_deletable": true
+  },
+  "collected_data": {
+    "personal_info": {
+      "collect": false,
+      "data": []
+    },
+    "app_activity": {
+      "collect": false,
+      "data": []
+    }
+  },
+  "application_information": {
+    "description": "NanoTime is a simple app designed to display a large, easy-to-read digital clock in a vertical format.",
+    "about_this_app": "# NanoTime\\n\\nNanoTime is a simple app designed to display a large, easy-to-read digital clock. The clock is presented in a vertical format with the hours, minutes, and seconds stacked on separate lines.\\n\\n## Key Features:\\n\\n- **Large Display**: The time is displayed in a large format for easy reading.\\n\\n- **Vertical Format**: Hours, minutes, and seconds are stacked vertically for a unique look.\\n\\n- **User-Friendly Interface**: Simple and intuitive design for all users.\\n\\nFor more information or support, visit the [NanoTime Help Center](https://nanotime.m10.live/help) or contact NanoTime support at [support@nanotime.m10.live](mailto:support@nanotime.m10.live).",
+    "app_version": "1.0.0",
+    "updated_on": "2024-09-01",
+    "required_os": "Web Browser",
+    "in_app_purchase": {
+      "has_in_app_purchase": false,
+      "purchase_range": ""
+    },
+    "content_rating": "Rated for 4+",
+    "interactive_elements": "Users interact",
+    "released_on": "2024-09-01",
+    "developer": "NanoTime Inc."
+  },
+  "app_tags": {
+    "tags": ["Utilities", "Clock", "Digital", "Time", "Simple"]
+  },
+  "support": [
+    {
+      "id": "website",
+      "name": "Website",
+      "value": "NanoTime Help Center",
+      "url": "https://nanotime.m10.live/help"
+    },
+    {
+      "id": "email",
+      "name": "Email",
+      "value": "NanoTime Support Email",
+      "url": "mailto:support@nanotime.m10.live"
+    },
+    {
+      "id": "address",
+      "name": "Address",
+      "value": "789 Time St, Clock City, CC 12345",
+      "url": "https://goo.gl/maps/NanoTimeHQ"
+    },
+    {
+      "id": "privacy_policy",
+      "name": "Privacy Policy",
+      "value": "NanoTime Privacy Policy",
+      "url": "https://nanotime.m10.live/privacy"
+    }
+  ]
+}

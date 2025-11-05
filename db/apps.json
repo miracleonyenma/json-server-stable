@@ -3,7 +3,7 @@
     "id": "100pay",
     "title": "100Pay App",
     "rate": 5.0,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1719057534/appstore/paypayinsqr_wjkwtr.png",
+    "image": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+1.png",
     "category": "finance",
     "tags": ["finance", "payments", "invoicing", "business tools"],
     "url": "https://dashboard.100pay.co/"
@@ -12,7 +12,7 @@
     "id": "contest",
     "title": "Contest App",
     "rate": 4.7,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1715959386/icon-512x512_v4cgmd.png",
+    "image": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+7.png",
     "category": "shopping",
     "tags": ["entertainment", "shopping", "gaming"],
     "url": "https://play.joincontest.app/"
@@ -21,7 +21,7 @@
     "id": "contest-explorer",
     "title": "Explorer",
     "rate": 4.7,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1723053038/appstore/explorer_zqct75.png",
+    "image": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+3.png",
     "category": "shopping",
     "tags": ["entertainment", "shopping", "gaming"],
     "url": "https://joincontest.app/"
@@ -30,7 +30,7 @@
     "id": "contest-store",
     "title": "Contest Store",
     "rate": 4.7,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1721859207/contest/Contest_Store_zokbwm.png",
+    "image": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+4.png",
     "category": "shopping",
     "tags": ["shopping"],
     "url": "https://joincontest.store/"
@@ -39,7 +39,7 @@
     "id": "shop100-checkout",
     "title": "Checkout",
     "rate": 5.0,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1721857350/contest/Shop100_Checkout_eguvk8.png",
+    "image": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+10.png",
     "category": "shopping",
     "tags": ["shopping", "order management", "centralized orders"],
     "url": ""
@@ -48,7 +48,7 @@
     "id": "shop100-merchant",
     "title": "Merchant",
     "rate": 4.2,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1721953144/contest/Shop100_Merchant_vbxvex.png",
+    "image": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+11.png",
     "category": "business",
     "tags": ["business", "ecommerce", "order management", "centralized orders"],
     "url": "https://checkout.shop100.store/"
@@ -84,7 +84,7 @@
     "id": "to-do-vue",
     "title": "Dne To-Do",
     "rate": 4.0,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1719001317/appstore/dne_kehmcf.png",
+    "image": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+9.png",
     "category": "productivity",
     "tags": ["productivity", "task management"],
     "url": "https://to-do-vue.netlify.app/"
@@ -93,25 +93,16 @@
     "id": "cloudnotte",
     "title": "Cloudnotte",
     "rate": 4.9,
-    "image": "https://cloudnotte.com/android-chrome-192x192.png",
+    "image": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+6.png",
     "category": "education",
     "tags": ["school management", "online learning", "student tracking"],
     "url": "https://app.cloudnotte.com/"
   },
   {
-    "id": "vtbill",
-    "title": "VTBill",
-    "rate": 4.7,
-    "image": "https://app.vtbill.com/vt_192.png",
-    "category": "finance",
-    "tags": ["finance", "payments", "invoicing", "business tools"],
-    "url": "https://app.vtbill.com/"
-  },
-  {
     "id": "clnk",
     "title": "Clnk",
     "rate": 4.5,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1723571495/clnk/clnk-icon_2x_qdqhjl.png",
+    "image": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+12.png",
     "category": "utilities",
     "tags": ["url shortener", "qr codes", "sharing", "analytics"],
     "url": "https://clnk.m10.live/"
@@ -120,18 +111,9 @@
     "id": "retrocket",
     "title": "Retrocket",
     "rate": 4.6,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1725134208/Frame_1171275939_uwlkwo.png",
+    "image": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+13.png",
     "category": "games",
     "tags": ["games", "retro", "rocket", "action", "high score"],
     "url": "https://retrocket.m10.live/"
-  },
-  {
-    "id": "nanotime",
-    "title": "NanoTime",
-    "rate": 4.5,
-    "image": "https://res.cloudinary.com/alphas/image/upload/v1725154543/appstore/nanotime_bcxwar.png",
-    "category": "utilities",
-    "tags": ["utilities", "clock", "digital", "time", "simple"],
-    "url": "https://nanotime.m10.live/"
   }
 ]

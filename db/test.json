@@ -7,7 +7,7 @@
   "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1723196011/appstore/Test_w3eagy.png",
   "rated_for": "12+",
   "rating": 4.0,
-  "pwa_url": "http://localhost:3000",
+  "pwa_url": "http://localhost:3000/",
   "manifest_url": "http://localhost:3000/manifest.json",
   "new_app_features": "- Simple and intuitive to-do list interface. - Basic task management features. - Easy to use and accessible.",
   "privacy_policy": {

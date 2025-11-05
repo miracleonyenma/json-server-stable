@@ -4,7 +4,7 @@
   "short_app_title": "Dne To-Do",
   "app_category": "productivity",
   "in_app_purchase": true,
-  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1719001317/appstore/dne_kehmcf.png",
+  "app_icon": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+9.png",
   "rated_for": "12+",
   "rating": 4.0,
   "pwa_url": "https://to-do-vue.netlify.app/",

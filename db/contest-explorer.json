@@ -4,7 +4,7 @@
   "short_app_title": "Explorer",
   "app_category": "entertainment",
   "in_app_purchase": true,
-  "app_icon": "https://res.cloudinary.com/alphas/image/upload/v1723053038/appstore/explorer_zqct75.png",
+  "app_icon": "https://nanoappsbucket.s3.us-east-1.amazonaws.com/apps/image+3.png",
   "rated_for": "12+",
   "rating": 4.8,
   "pwa_url_download": "https://joincontest.app/",
